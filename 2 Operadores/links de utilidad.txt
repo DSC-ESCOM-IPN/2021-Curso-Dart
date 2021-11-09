@@ -1,0 +1,6 @@
+//En clase
+Effective Dart: dart.dev/guides/language/effective-dart
+Repl de tipos: replit.com/@YosafatCoronel/Tipos-de-datos
+
+//Extras
+Operadores en Dart: https://www.geeksforgeeks.org/operators-in-dart/
