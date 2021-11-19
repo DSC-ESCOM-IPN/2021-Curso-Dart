@@ -1,0 +1,2 @@
+Aclaración sobre dynamic: replit.com/@YosafatCoronel/4-dynamic
+Ejercicio de la clase 3 con switch y break: replit.com/@YosafatCoronel/4-while-y-switch
