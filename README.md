@@ -7,3 +7,6 @@ Repositorio para el Curso de Dart para Programación Orientada a Objetos del Goo
     4. Switch y for, break y continue
     5. Final, const y main
     6. Funciones
+    7. Funciones Higher-Order
+    8. Mapas y Clases
+    9. Dart en Flutter: Constructores
