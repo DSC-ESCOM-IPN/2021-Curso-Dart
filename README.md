@@ -11,3 +11,4 @@ Repositorio para el Curso de Dart para Programación Orientada a Objetos del Goo
     8. Mapas y Clases
     9. Dart en Flutter: Constructores
     10. Operadores condicionales de acceso, y de acceso
+    11. Métodos: estáticos, de instancia y heredados
