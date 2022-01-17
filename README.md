@@ -12,3 +12,6 @@ Repositorio para el Curso de Dart para Programación Orientada a Objetos del Goo
     9. Dart en Flutter: Constructores
     10. Operadores condicionales de acceso, y de acceso
     11. Métodos: estáticos, de instancia y heredados
+    12. Excepciones
+    13. Potenciar a Dart (Otra vez Instancias y clases)
+    14. Asincronía y YAML
